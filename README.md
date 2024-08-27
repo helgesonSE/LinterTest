@@ -1,3 +1,3 @@
 # LinterTest
 superLinter
-#SecondTitle
+# SecondTitle
